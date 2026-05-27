@@ -132,6 +132,7 @@ Guidelines for contributing to this repository and adding citation information.
 
 ## Reasoning-Enhanced RAG
 ### Retrieval Optimization
+- (EACL 2026) **Over-Searching in Search-Augmented Large Language Models** [[Paper]](https://arxiv.org/abs/2601.05503)
 - (arXiv 2026) **Query Suggestion for Retrieval-Augmented Generation via Dynamic In-Context Learning** [[Paper]](https://arxiv.org/pdf/2601.08105)
 - (NeurIPS 2025) **R3: Optimizing Retrieval for RAG via Reinforcement Learning** [[Paper](https://arxiv.org/abs/2510.24652)] [[Code](https://github.com/Yuan-Li-FNLP/R3-RAG)] ![GitHub Repo stars](https://img.shields.io/github/stars/Yuan-Li-FNLP/R3-RAG?style=social)
 - (ArXiv 2025) Graph-Guided Concept Selection for Efficient Retrieval-Augmented Generation [[Paper]](https://arxiv.org/abs/2510.24120)
