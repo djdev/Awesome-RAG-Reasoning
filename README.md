@@ -134,6 +134,7 @@ Guidelines for contributing to this repository and adding citation information.
 
 ## Reasoning-Enhanced RAG
 ### Retrieval Optimization
+- (EACL 2026) **Over-Searching in Search-Augmented Large Language Models** [[Paper]](https://arxiv.org/abs/2601.05503)
 - (arXiv 2026) **CalVerT: Augmenting Agents with Calibrated Verifier Telemetry Improves Action and Learning in Knowledge-Intensive Tasks** [[Paper]](https://arxiv.org/abs/2606.21777) [[Code]](https://github.com/ashwinn-v/CalVerT) ![GitHub Repo stars](https://img.shields.io/github/stars/ashwinn-v/CalVerT?style=social)
 - (KDD 2026 Workshop) **TASR: Training-Free Adaptive Stopping for Iterative Retrieval** [[Paper]](https://arxiv.org/abs/2606.13814)
 - (SIGIR 2026) **Personalized Deep Research: A User-Centric Framework, Dataset, and Hybrid Evaluation for Knowledge Discovery** [[Paper]](https://arxiv.org/abs/2605.10530) [[Code]](https://github.com/Applied-Machine-Learning-Lab/SIGIR2026_PDR) ![GitHub Repo stars](https://img.shields.io/github/stars/Applied-Machine-Learning-Lab/SIGIR2026_PDR?style=social)
