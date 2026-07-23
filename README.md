@@ -121,6 +121,8 @@ The table linked below covers a diverse range of tasks. Each benchmark is annota
 - [Dialog](#dialog)
 - [Fact Checking](#fact-checking)
 - [Text Summarization](#text-summarization)
+- [Deep Research](#deep-research)
+- [Retrieval Evaluation](#retrieval-evaluation)
 
 ### 🤝 [Contributing](#contributing)
 
@@ -519,6 +521,8 @@ Guidelines for contributing to this repository and adding citation information.
 | [Omanic](https://arxiv.org/abs/2603.16654) | [Arxiv'26](https://github.com/XiaojieGu/Omanic) [![GitHub stars](https://img.shields.io/github/stars/XiaojieGu/Omanic?style=social)](https://github.com/XiaojieGu/Omanic) | Multi-hop QA | General | Commonsense, Logical | Deductive | 10,296 + 967 |
 | [AgenticRAGTracer](https://arxiv.org/abs/2602.19127) | [ACL'26](https://github.com/YqjMartin/AgenticRAGTracer) [![GitHub stars](https://img.shields.io/github/stars/YqjMartin/AgenticRAGTracer?style=social)](https://github.com/YqjMartin/AgenticRAGTracer) | Multi-hop QA | General | Commonsense, Logical | Deductive | 1,305 |
 | [WildGraphBench](https://arxiv.org/abs/2602.02053) | [Arxiv'26](https://github.com/BstWPY/WildGraphBench) [![GitHub stars](https://img.shields.io/github/stars/BstWPY/WildGraphBench?style=social)](https://github.com/BstWPY/WildGraphBench) | Multi-hop QA | General | Commonsense, Logical | Deductive, Inductive | 1,100 |
+| [SPARTA](https://arxiv.org/abs/2602.23286) | [ICLR'26](https://github.com/pshlego/SPARTA) [![GitHub stars](https://img.shields.io/github/stars/pshlego/SPARTA?style=social)](https://github.com/pshlego/SPARTA) | Multi-hop QA | General | Logical, Arithmetic | Deductive | 3,300 |
+| [EnterpriseRAG-Bench](https://arxiv.org/abs/2605.05253) | [Arxiv'26](https://github.com/onyx-dot-app/EnterpriseRAG-Bench) [![GitHub stars](https://img.shields.io/github/stars/onyx-dot-app/EnterpriseRAG-Bench?style=social)](https://github.com/onyx-dot-app/EnterpriseRAG-Bench) | Multi-hop QA | Enterprise | Commonsense, Logical | Deductive, Abductive | 500 |
 <a name="multi-choice-qa"></a>
 | [QuALITY](https://aclanthology.org/2022.naacl-main.391.pdf) | [NAACL'22](https://github.com/nyu-mll/quality) [![GitHub stars](https://img.shields.io/github/stars/nyu-mll/quality?style=social)](https://github.com/nyu-mll/quality) | Multi-choice QA | Narrative | Commonsense, Logical | Deductive, Abductive | 6,737 |
 | [CC/Bamboogle](https://aclanthology.org/2023.findings-emnlp.378.pdf) | [EMNLP'23](https://github.com/ofirpress/self-ask) [![GitHub stars](https://img.shields.io/github/stars/ofirpress/self-ask?style=social)](https://github.com/ofirpress/self-ask) | Multi-choice QA | General | Logical | Deductive, Abductive | 125 |
@@ -555,6 +559,15 @@ Guidelines for contributing to this repository and adding citation information.
 | [PubHealth](https://aclanthology.org/2020.emnlp-main.623.pdf) | [EMNLP'20](https://github.com/neemakot/Health-Fact-Checking) [![GitHub stars](https://img.shields.io/github/stars/neemakot/Health-Fact-Checking?style=social)](https://github.com/neemakot/Health-Fact-Checking) | Fact Checking | Health | Commonsense, Logical | Abductive, Deductive | 11,800 |
 <a name="text-summarization"></a>
 | [XSum](https://aclanthology.org/D18-1206.pdf) | [EMNLP'18](https://github.com/EdinburghNLP/XSum) [![GitHub stars](https://img.shields.io/github/stars/EdinburghNLP/XSum?style=social)](https://github.com/EdinburghNLP/XSum) | Text Summarization | Narrative | Logical, Commonsense | Abductive | 226,711 |
+<a name="deep-research"></a>
+| [Wiki Live Challenge](https://arxiv.org/abs/2602.01590) | [Arxiv'26](https://github.com/WangShao2000/Wiki_Live_Challenge) [![GitHub stars](https://img.shields.io/github/stars/WangShao2000/Wiki_Live_Challenge?style=social)](https://github.com/WangShao2000/Wiki_Live_Challenge) | Deep Research | General | Commonsense, Logical | Inductive, Deductive | 100 |
+| [MiroEval](https://arxiv.org/abs/2603.28407) | [Arxiv'26](https://github.com/MiroMindAI/MiroEval) [![GitHub stars](https://img.shields.io/github/stars/MiroMindAI/MiroEval?style=social)](https://github.com/MiroMindAI/MiroEval) | Deep Research | General | Multimodal, Logical | Deductive, Inductive | 100 |
+| [TRACE](https://arxiv.org/abs/2602.21230) | [WWW'26](https://arxiv.org/abs/2602.21230) | Deep Research | General | Logical | Deductive, Abductive | – |
+| [ReportLogic](https://arxiv.org/abs/2602.18446) | [ACL'26](https://arxiv.org/abs/2602.18446) | Deep Research | General | Logical | Deductive, Abductive | – |
+| [Multi-Turn DRA Eval](https://arxiv.org/abs/2606.09748) | [ICML'26 WS](https://github.com/sabharwalrishabh/Multi-Turn-Evaluation-of-DRAs) [![GitHub stars](https://img.shields.io/github/stars/sabharwalrishabh/Multi-Turn-Evaluation-of-DRAs?style=social)](https://github.com/sabharwalrishabh/Multi-Turn-Evaluation-of-DRAs) | Deep Research | General | Logical | Deductive, Abductive | – |
+<a name="retrieval-evaluation"></a>
+| [V-QPP-Bench](https://arxiv.org/abs/2602.13179) | [Arxiv'26](https://github.com/phycholosogy/VQQP_Bench) [![GitHub stars](https://img.shields.io/github/stars/phycholosogy/VQQP_Bench?style=social)](https://github.com/phycholosogy/VQQP_Bench) | Retrieval Evaluation | General | Multimodal | Abductive, Deductive | 46,700 |
+| [AuthorityBench](https://arxiv.org/abs/2603.25092) | [Arxiv'26](https://github.com/Trustworthy-Information-Access/AuthorityBench) [![GitHub stars](https://img.shields.io/github/stars/Trustworthy-Information-Access/AuthorityBench?style=social)](https://github.com/Trustworthy-Information-Access/AuthorityBench) | Retrieval Evaluation | General | Commonsense, Logical | Inductive, Deductive | 10K + 22K + 120 |
 
 **[⬆️ Back to Table of Contents](#what-this-repository-covers)**
 
