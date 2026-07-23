@@ -132,6 +132,17 @@ Guidelines for contributing to this repository and adding citation information.
 
 ## Reasoning-Enhanced RAG
 ### Retrieval Optimization
+- (arXiv 2026) **CalVerT: Augmenting Agents with Calibrated Verifier Telemetry Improves Action and Learning in Knowledge-Intensive Tasks** [[Paper]](https://arxiv.org/abs/2606.21777) [[Code]](https://github.com/ashwinn-v/CalVerT) ![GitHub Repo stars](https://img.shields.io/github/stars/ashwinn-v/CalVerT?style=social)
+- (KDD 2026 Workshop) **TASR: Training-Free Adaptive Stopping for Iterative Retrieval** [[Paper]](https://arxiv.org/abs/2606.13814)
+- (SIGIR 2026) **Personalized Deep Research: A User-Centric Framework, Dataset, and Hybrid Evaluation for Knowledge Discovery** [[Paper]](https://arxiv.org/abs/2605.10530) [[Code]](https://github.com/Applied-Machine-Learning-Lab/SIGIR2026_PDR) ![GitHub Repo stars](https://img.shields.io/github/stars/Applied-Machine-Learning-Lab/SIGIR2026_PDR?style=social)
+- (SIGIR 2026) **When to Retrieve During Reasoning: Adaptive Retrieval for Large Reasoning Models** [[Paper]](https://arxiv.org/abs/2604.26649)
+- (ACL 2026 Findings) **CORAL: Adaptive Retrieval Loop for Culturally-Aligned Multilingual RAG** [[Paper]](https://arxiv.org/abs/2604.25676)
+- (ACL 2026) **S2G-RAG: Structured Sufficiency and Gap Judging for Iterative Retrieval-Augmented QA** [[Paper]](https://arxiv.org/abs/2604.23783)
+- (WWW 2026) **AdaQE-CG: Adaptive Query Expansion for Web-Scale Generative AI Model and Data Card Generation** [[Paper]](https://arxiv.org/abs/2604.09617) [[Code]](https://github.com/haoxuan-unt2024/AdaQE-CG) ![GitHub Repo stars](https://img.shields.io/github/stars/haoxuan-unt2024/AdaQE-CG?style=social)
+- (CVPR 2026 Workshop) **HIVE: Query, Hypothesize, Verify An LLM Framework for Multimodal Reasoning-Intensive Retrieval** [[Paper]](https://arxiv.org/abs/2604.07220) [[Code]](https://github.com/mm-bright/multimodal-reasoning-retrieval) ![GitHub Repo stars](https://img.shields.io/github/stars/mm-bright/multimodal-reasoning-retrieval?style=social)
+- (ACL 2026 Findings) **Region-R1: Reinforcing Query-Side Region Cropping for Multi-Modal Re-Ranking** [[Paper]](https://arxiv.org/abs/2604.05268) [[Code]](https://github.com/taco-group/Region-R1) ![GitHub Repo stars](https://img.shields.io/github/stars/taco-group/Region-R1?style=social)
+- (CIKM 2025) **Query, Decompose, Compress: Structured Query Expansion for Efficient Multi-Hop Retrieval** [[Paper]](https://arxiv.org/abs/2603.21024)
+- (arXiv 2026) **AgenticOCR: Parsing Only What You Need for Efficient Retrieval-Augmented Generation** [[Paper]](https://arxiv.org/abs/2602.24134)
 - (arXiv 2026) **Query Suggestion for Retrieval-Augmented Generation via Dynamic In-Context Learning** [[Paper]](https://arxiv.org/pdf/2601.08105)
 - (NeurIPS 2025) **R3: Optimizing Retrieval for RAG via Reinforcement Learning** [[Paper](https://arxiv.org/abs/2510.24652)] [[Code](https://github.com/Yuan-Li-FNLP/R3-RAG)] ![GitHub Repo stars](https://img.shields.io/github/stars/Yuan-Li-FNLP/R3-RAG?style=social)
 - (ArXiv 2025) Graph-Guided Concept Selection for Efficient Retrieval-Augmented Generation [[Paper]](https://arxiv.org/abs/2510.24120)
@@ -154,6 +165,18 @@ Guidelines for contributing to this repository and adding citation information.
 
 ### Integration Enhancement
 
+- (arXiv 2026) **Trust Before Fusion: QIMG-7 and Source-Aware Resolution for Polluted Multimodal RAG** [[Paper]](https://arxiv.org/abs/2607.10798)
+- (arXiv 2026) **MIRAGE: Defending Long-Form RAG Against Misinformation Pollution** [[Paper]](https://arxiv.org/abs/2607.05069) [[Code]](https://github.com/SaadElDine/MIRAGE) ![GitHub Repo stars](https://img.shields.io/github/stars/SaadElDine/MIRAGE?style=social)
+- (arXiv 2026) **SHIFT: Gate-Modulated Activation Steering for Knowledge Conflict Mitigation in Retrieval-Augmented Generation** [[Paper]](https://arxiv.org/abs/2606.27786) [[Code]](https://github.com/OpenBMB/SHIFT) ![GitHub Repo stars](https://img.shields.io/github/stars/OpenBMB/SHIFT?style=social)
+- (arXiv 2026) **Trust or Abstain? A Self-Aware RAG Approach** [[Paper]](https://arxiv.org/abs/2605.18792) [[Code]](https://github.com/xizhu1022/SABER) ![GitHub Repo stars](https://img.shields.io/github/stars/xizhu1022/SABER?style=social)
+- (ACL 2026) **Utility-Oriented Visual Evidence Selection for Multimodal Retrieval-Augmented Generation** [[Paper]](https://arxiv.org/abs/2605.13277)
+- (arXiv 2026) **AdaGATE: Adaptive Gap-Aware Token-Efficient Evidence Assembly for Multi-Hop Retrieval-Augmented Generation** [[Paper]](https://arxiv.org/abs/2605.05245) [[Code]](https://github.com/eliguo/AdaGATE) ![GitHub Repo stars](https://img.shields.io/github/stars/eliguo/AdaGATE?style=social)
+- (ACL 2026) **Verbal-R3: Verbal Reranker as the Missing Bridge between Retrieval and Reasoning** [[Paper]](https://arxiv.org/abs/2605.01399)
+- (arXiv 2026) **Beyond Semantic Relevance: Counterfactual Risk Minimization for Robust Retrieval-Augmented Generation** [[Paper]](https://arxiv.org/abs/2605.01302)
+- (arXiv 2026) **ArbGraph: Conflict-Aware Evidence Arbitration for Reliable Long-Form Retrieval-Augmented Generation** [[Paper]](https://arxiv.org/abs/2604.18362) [[Code]](https://github.com/1212Judy/ArbGraph) ![GitHub Repo stars](https://img.shields.io/github/stars/1212Judy/ArbGraph?style=social)
+- (arXiv 2026) **Rethinking Retrieval-Augmented Generation as a Cooperative Decision-Making Problem** [[Paper]](https://arxiv.org/abs/2602.18734) [[Code]](https://github.com/CoderrrSong/CoRAG) ![GitHub Repo stars](https://img.shields.io/github/stars/CoderrrSong/CoRAG?style=social)
+- (WACV 2026) **Relevance-aware Multi-context Contrastive Decoding for Retrieval-augmented Visual Question Answering** [[Paper]](https://arxiv.org/abs/2602.06050) [[Code]](https://github.com/mlvlab/RMCD) ![GitHub Repo stars](https://img.shields.io/github/stars/mlvlab/RMCD?style=social)
+- (arXiv 2026) **Rethinking the Reranker: Boundary-Aware Evidence Selection for Robust Retrieval-Augmented Generation** [[Paper]](https://arxiv.org/abs/2602.03689) [[Code]](https://github.com/GasolSun36/BAR-RAG) ![GitHub Repo stars](https://img.shields.io/github/stars/GasolSun36/BAR-RAG?style=social)
 - (ArXiv 2025) TruthfulRAG: Resolving Factual-level Conflicts in Retrieval-Augmented Generation [[Paper]](https://arxiv.org/abs/2511.10375) [[Code](https://github.com/LinfengGao/ProbeRAG)] ![GitHub Repo stars](https://img.shields.io/github/stars/LinfengGao/ProbeRAG?style=social)
 
 - (OpenReview 2025) Probing Latent Knowledge Conflict for Faithful Retrieval-Augmented Generation [[Paper]](https://openreview.net/forum?id=NhO6iEUISf)
@@ -167,6 +190,9 @@ Guidelines for contributing to this repository and adding citation information.
 - (ACL 2024) **BeamAggR: Beam Aggregation Reasoning over Multi-source Knowledge for Multi-hop Question Answering** [[Paper]](https://aclanthology.org/2024.acl-long.67/)
 
 ### Generation Enhancement
+- (ICPR 2026) **SERC: LDPC-Inspired Semantic Error Correction for Retrieval-Augmented Generation** [[Paper]](https://arxiv.org/abs/2605.28837) [[Code]](https://github.com/labhai/SERC) ![GitHub Repo stars](https://img.shields.io/github/stars/labhai/SERC?style=social)
+- (ICLR 2026 Workshop) **PAVE: Premise-Aware Validation and Editing for Retrieval-Augmented LLMs** [[Paper]](https://arxiv.org/abs/2603.20673)
+- (ACL 2026 Workshop) **CounterRefine: Answer-Conditioned Counterevidence Retrieval for Inference-Time Knowledge Repair in Factual Question Answering** [[Paper]](https://arxiv.org/abs/2603.16091)
 - (arXiv 2026) **RAGShaper: Eliciting Sophisticated Agentic RAG Skills via Automated Data Synthesis** [[Paper](https://arxiv.org/pdf/2601.08699)]
 - (arXiv 2026) **Disco-RAG: Discourse-Aware Retrieval-Augmented Generation for Long-Form Question Answering** [[Paper](https://arxiv.org/abs/2601.04377)]
 - (ArXiv 2026) EviOmni: Learning to Extract Rational Evidence via Reinforcement Learning for Retrieval-Augmented Generation [[Paper]](https://arxiv.org/abs/2507.15586) [[Code]](https://huggingface.co/HIT-TMG/EviOmni-nq_train-1.5B)
@@ -202,6 +228,7 @@ Guidelines for contributing to this repository and adding citation information.
 
 #### Web Retrieval
 
+- (SIGIR 2026) **Revisiting Text Ranking in Deep Research** [[Paper]](https://arxiv.org/abs/2602.21456)
 - (arXiv 2026) **SmartSearch: Enhancing Dense Retrieval with Dynamic LLM-Guided Iterative Search** [[Paper](https://arxiv.org/abs/2601.04888)] [[Code]](https://github.com/RUC-NLPIR/SmartSearch) ![GitHub Repo stars](https://img.shields.io/github/stars/RUC-NLPIR/SmartSearch?style=social)
 - (arXiv 2026) **D2Plan: A Dual-Agent Framework for Dynamic Global Planning in Web Search** [[Paper](https://arxiv.org/html/2601.08282v1)]
 - (arXiv 2025) **HiPRAG: A Hybrid Inference Framework for Retrieval-Augmented Generation** [[Paper](https://arxiv.org/abs/2510.07794)] [[Code]](https://github.com/qualidea1217/HiPRAG) ![GitHub Repo stars](https://img.shields.io/github/stars/qualidea1217/HiPRAG?style=social)
@@ -215,6 +242,7 @@ Guidelines for contributing to this repository and adding citation information.
 - (LREC-COLING 2024) **PACAR: Automated Fact-Checking with Planning and Customized Action Reasoning using Large Language Models** [[Paper]](https://aclanthology.org/2024.lrec-main.1099.pdf)
 
 #### Tool Using
+- (arXiv 2026) **Tool Retrieval Bridge: Aligning Vague Instructions with Retriever Preferences via Bridge Model** [[Paper]](https://arxiv.org/abs/2604.07816) [[Code]](https://github.com/kfchenhn/TRB) ![GitHub Repo stars](https://img.shields.io/github/stars/kfchenhn/TRB?style=social)
 - (arXiv 2026) **Beyond Single-Shot: Multi-Step Tool Retrieval via Query Planning** [[Paper](https://arxiv.org/abs/2601.07782)]
 - (arXiv 2025) **Tool-to-Agent Retrieval: Bridging Tools and Agents for Scalable LLM Multi-Agent Systems** [[Paper](https://arxiv.org/abs/2511.01854)]
 - (COLING 2025) **Efficient Tool Use with Chain-of-Abstraction Reasoning** [[Paper]](https://aclanthology.org/2025.coling-main.185.pdf)
@@ -237,6 +265,13 @@ Guidelines for contributing to this repository and adding citation information.
 ### In-context Retrieval
 
 #### Prior Experience
+- (arXiv 2026) **ExpWeaver: LLM Agents Learn from Experience via Latent RAG** [[Paper]](https://arxiv.org/abs/2606.01041)
+- (ICML 2026) **From Volume to Value: Preference-Aligned Memory Construction for On-Device RAG** [[Paper]](https://arxiv.org/abs/2605.18271) [[Code]](https://github.com/UbiquitousAILab/EPIC) ![GitHub Repo stars](https://img.shields.io/github/stars/UbiquitousAILab/EPIC?style=social)
+- (arXiv 2026) **RAG over Thinking Traces Can Improve Reasoning Tasks** [[Paper]](https://arxiv.org/abs/2605.03344) [[Code]](https://github.com/Narabzad/t3) ![GitHub Repo stars](https://img.shields.io/github/stars/Narabzad/t3?style=social)
+- (arXiv 2026) **EviMem: Evidence-Gap-Driven Iterative Retrieval for Long-Term Conversational Memory** [[Paper]](https://arxiv.org/abs/2604.27695) [[Code]](https://github.com/AIGeeksGroup/EviMem) ![GitHub Repo stars](https://img.shields.io/github/stars/AIGeeksGroup/EviMem?style=social)
+- (ACL 2026 Findings) **Feedback Adaptation for Retrieval-Augmented Generation** [[Paper]](https://arxiv.org/abs/2604.06647)
+- (arXiv 2026) **MemSifter: Offloading LLM Memory Retrieval via Outcome-Driven Proxy Reasoning** [[Paper]](https://arxiv.org/abs/2603.03379) [[Code]](https://github.com/plageon/MemSifter) ![GitHub Repo stars](https://img.shields.io/github/stars/plageon/MemSifter?style=social)
+- (arXiv 2026) **Beyond RAG for Agent Memory: Retrieval by Decoupling and Aggregation** [[Paper]](https://arxiv.org/abs/2602.02007) [[Code]](https://github.com/HU-xiaobai/xMemory) ![GitHub Repo stars](https://img.shields.io/github/stars/HU-xiaobai/xMemory?style=social)
 - (ArXiv 2026) **Structured Episodic Event Memory for LLM Agents** [[Paper](https://arxiv.org/abs/2601.06411v1)]
 - (arXiv 2026) **Synapse: An LLM-Based Cognitive Memory Architecture** [[Paper](https://arxiv.org/abs/2601.02744)]
 - (arXiv 2026) **SwiftMem: Continual Memory Learning for Large Language Models** [[Paper](https://arxiv.org/abs/2601.08160)]
@@ -271,6 +306,8 @@ Guidelines for contributing to this repository and adding citation information.
 
 #### Chain-based
 
+- (arXiv 2026) **CheckRLM: Effective Knowledge-Thought Coherence Checking in Retrieval-Augmented Reasoning** [[Paper]](https://arxiv.org/abs/2607.02262) [[Code]](https://github.com/AI9Stars/CheckRLM) ![GitHub Repo stars](https://img.shields.io/github/stars/AI9Stars/CheckRLM?style=social)
+- (arXiv 2026) **From Conflict to Consensus: Boosting Medical Reasoning via Multi-Round Agentic RAG** [[Paper]](https://arxiv.org/abs/2603.03292) [[Code]](https://github.com/NJU-RL/MA-RAG) ![GitHub Repo stars](https://img.shields.io/github/stars/NJU-RL/MA-RAG?style=social)
 - (ICLR 2025) **Long-context llms meet rag: Overcoming challenges for long inputs in rag** [[Paper]](https://openreview.net/forum?id=oU3tpaR8fm)
 - (ArXiv 2025) **Chain-of-Retrieval Augmented Generation** [[Paper]](https://arxiv.org/abs/2501.14342) [[Code]](https://github.com/microsoft/LMOps/tree/main/corag) ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/LMOps?style=social)
 - (ArXiv 2025) **CoT-RAG: Integrating Chain of Thought and Retrieval-Augmented Generation to Enhance Reasoning in Large Language Models** [[Paper]](https://arxiv.org/abs/2504.13534)
@@ -286,6 +323,8 @@ Guidelines for contributing to this repository and adding citation information.
 
 #### Tree-based
 
+- (ICML 2026) **Hierarchical Abstract Tree for Cross-Document Retrieval-Augmented Generation** [[Paper]](https://arxiv.org/abs/2605.00529) [[Code]](https://github.com/Newiz430/Psi-RAG) ![GitHub Repo stars](https://img.shields.io/github/stars/Newiz430/Psi-RAG?style=social)
+- (arXiv 2026) **Self-Correcting RAG: Enhancing Faithfulness via MMKP Context Selection and NLI-Guided MCTS** [[Paper]](https://arxiv.org/abs/2604.10734) [[Code]](https://github.com/xjiacs/Self-Correcting-RAG) ![GitHub Repo stars](https://img.shields.io/github/stars/xjiacs/Self-Correcting-RAG?style=social)
 - (ACL 2025) **ARise: Towards Knowledge-Augmented Reasoning via Risk-Adaptive Search** [[Paper]](https://arxiv.org/abs/2504.10893) [[Code]](https://github.com/OpenCausaLab/ARise) ![GitHub Repo stars](https://img.shields.io/github/stars/OpenCausaLab/ARise?style=social)
 - (AAAI 2025) **RATT: A Thought Structure for Coherent and Correct LLM Reasoning** [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/34876) [[Code]](https://github.com/jinghanzhang1998/RATT) ![GitHub Repo stars](https://img.shields.io/github/stars/jinghanzhang1998/RATT?style=social)
 - (ArXiv 2025) **MCTS-RAG: Enhance Retrieval-Augmented Generation with Monte Carlo Tree Search** [[Paper]](https://arxiv.org/pdf/2503.20757?) [[Code]](https://github.com/yale-nlp/MCTS-RAG) ![GitHub Repo stars](https://img.shields.io/github/stars/yale-nlp/MCTS-RAG?style=social)
@@ -301,6 +340,22 @@ Guidelines for contributing to this repository and adding citation information.
 #### Graph-based
 
 ##### Walk-on-Graph
+- (arXiv 2026) **RAGU: A Multi-Step GraphRAG Engine with a Compact Domain-Adapted LLM** [[Paper]](https://arxiv.org/abs/2607.11683) [[Code]](https://github.com/RaguTeam/RAGU) ![GitHub Repo stars](https://img.shields.io/github/stars/RaguTeam/RAGU?style=social)
+- (ICML 2026) **RSF-GLLM: Bridging the Semantic Gap in Multi-Hop Knowledge Graph QA via Recurrent Soft-Flow and Decoupled LLM Generation** [[Paper]](https://arxiv.org/abs/2607.06527)
+- (arXiv 2026) **MAGE-RAG: Multigranular Adaptive Graph Evidence for Agentic Multimodal RAG in Long-Document QA** [[Paper]](https://arxiv.org/abs/2606.15906)
+- (arXiv 2026) **IA-RAG: Interval-Algebra-Driven Temporal Reasoning for Dynamic Knowledge Retrieval** [[Paper]](https://arxiv.org/abs/2606.06044) [[Code]](https://github.com/xiaoAugenstern/LogicalRAG_TemporalQA) ![GitHub Repo stars](https://img.shields.io/github/stars/xiaoAugenstern/LogicalRAG_TemporalQA?style=social)
+- (KDD 2026) **MemGraphRAG: Memory-based Multi-Agent System for Graph Retrieval-Augmented Generation** [[Paper]](https://arxiv.org/abs/2606.00610) [[Code]](https://github.com/XMUDeepLIT/MemGraphRAG) ![GitHub Repo stars](https://img.shields.io/github/stars/XMUDeepLIT/MemGraphRAG?style=social)
+- (arXiv 2026) **MoG: Mixture of Experts for Graph-based Retrieval-Augmented Generation** [[Paper]](https://arxiv.org/abs/2605.31010) [[Code]](https://github.com/DEEP-PolyU/MoG) ![GitHub Repo stars](https://img.shields.io/github/stars/DEEP-PolyU/MoG?style=social)
+- (arXiv 2026) **Beyond Chunk-Local Extraction: Cross-Chunk Graph Augmentation for GraphRAG** [[Paper]](https://arxiv.org/abs/2605.28004) [[Code]](https://github.com/DonFinliani/CrossAug) ![GitHub Repo stars](https://img.shields.io/github/stars/DonFinliani/CrossAug?style=social)
+- (ACL 2026) **STEM: Structure-Tracing Evidence Mining for Knowledge Graphs-Driven Retrieval-Augmented Generation** [[Paper]](https://arxiv.org/abs/2604.22282)
+- (arXiv 2026) **AtomicRAG: Atom-Entity Graphs for Retrieval-Augmented Generation** [[Paper]](https://arxiv.org/abs/2604.20844) [[Code]](https://github.com/7HHHHH/AtomicRAG) ![GitHub Repo stars](https://img.shields.io/github/stars/7HHHHH/AtomicRAG?style=social)
+- (arXiv 2026) **Toward Robust GraphRAG: Mitigating Retrieval Drift and Hallucination from Imperfect Knowledge Graphs** [[Paper]](https://arxiv.org/abs/2603.14828) [[Code]](https://github.com/myz12138/CS-RAG) ![GitHub Repo stars](https://img.shields.io/github/stars/myz12138/CS-RAG?style=social)
+- (arXiv 2026) **MDER-DR: Multi-Hop Question Answering with Entity-Centric Summaries** [[Paper]](https://arxiv.org/abs/2603.11223) [[Code]](https://github.com/DataSciencePolimi/MDER-DR_RAG) ![GitHub Repo stars](https://img.shields.io/github/stars/DataSciencePolimi/MDER-DR_RAG?style=social)
+- (KDD 2026) **Core-based Hierarchies for Efficient GraphRAG** [[Paper]](https://arxiv.org/abs/2603.05207)
+- (ACL 2025) **HELIOS: Harmonizing Early Fusion, Late Fusion, and LLM Reasoning for Multi-Granular Table-Text Retrieval** [[Paper]](https://arxiv.org/abs/2603.02248)
+- (WWW 2026) **HyperRAG: Reasoning N-ary Facts over Hypergraphs for Retrieval Augmented Generation** [[Paper]](https://arxiv.org/abs/2602.14470)
+- (ICML 2026) **CausalRAG2: Hierarchical Causal Knowledge Graph Design for RAG** [[Paper]](https://arxiv.org/abs/2602.05143) [[Code]](https://github.com/Pwnb/CausalRAG2) ![GitHub Repo stars](https://img.shields.io/github/stars/Pwnb/CausalRAG2?style=social)
+- (arXiv 2026) **Breaking the Static Graph: Context-Aware Traversal for Robust Retrieval-Augmented Generation** [[Paper]](https://arxiv.org/abs/2602.01965) [[Code]](https://github.com/kwunhang/CatRAG) ![GitHub Repo stars](https://img.shields.io/github/stars/kwunhang/CatRAG?style=social)
 - (ICLR 2025) **Reasoning of Large Language Models over Knowledge Graphs with Super-Relations** [[Paper]](https://openreview.net/forum?id=rTCJ29pkuA) [[Code]](https://github.com/SongW-SW/REKNOS) ![GitHub Repo stars](https://img.shields.io/github/stars/SongW-SW/REKNOS?style=social)
 - (ICLR 2025) **Simple is Effective: The Roles of Graphs and LLMs in Knowledge-Graph-Based RAG** [[Paper]](https://arxiv.org/pdf/2410.20724) [[Code]](https://github.com/Graph-COM/SubgraphRAG) ![GitHub Repo stars](https://img.shields.io/github/stars/Graph-COM/SubgraphRAG?style=social)
 - (ICLR 2025) **StructRAG: Boosting Knowledge Intensive Reasoning of LLMs via Inference-time Hybrid Information Structurization** [[Paper]](https://arxiv.org/pdf/2410.08815) [[Code]](https://github.com/icip-cas/StructRAG) ![GitHub Repo stars](https://img.shields.io/github/stars/icip-cas/StructRAG?style=social)
@@ -323,6 +378,11 @@ Guidelines for contributing to this repository and adding citation information.
 - (ACL 2019) **PullNet: Open Domain Question Answering with Iterative Retrieval on Knowledge Bases and Text** [[Paper]](https://arxiv.org/pdf/1904.09537) [[Code]](https://github.com/BrambleXu/knowledge-graph-learning/issues/255)
 
 ##### Think-on-Graph
+- (EKAW 2026) **MARS: Multi-hop Adaptive Retrieval and SPARQL Generation for KGQA** [[Paper]](https://arxiv.org/abs/2607.14561) [[Code]](https://github.com/dice-group/mars-kgqa) ![GitHub Repo stars](https://img.shields.io/github/stars/dice-group/mars-kgqa?style=social)
+- (arXiv 2026) **KG-Reasoner: A Reinforced Model for End-to-End Multi-Hop Knowledge Graph Reasoning** [[Paper]](https://arxiv.org/abs/2604.12487) [[Code]](https://github.com/Wangshuaiia/KG-Reasoner) ![GitHub Repo stars](https://img.shields.io/github/stars/Wangshuaiia/KG-Reasoner?style=social)
+- (arXiv 2026) **GraphWalker: Agentic Knowledge Graph Question Answering via Synthetic Trajectory Curriculum** [[Paper]](https://arxiv.org/abs/2603.28533) [[Code]](https://github.com/XuShuwenn/GraphWalker) ![GitHub Repo stars](https://img.shields.io/github/stars/XuShuwenn/GraphWalker?style=social)
+- (IJCNN 2026) **KG-Hopper: Empowering Compact Open LLMs with Knowledge Graph Reasoning via Reinforcement Learning** [[Paper]](https://arxiv.org/abs/2603.21440) [[Code]](https://github.com/Wangshuaiia/KG-Hopper) ![GitHub Repo stars](https://img.shields.io/github/stars/Wangshuaiia/KG-Hopper?style=social)
+- (arXiv 2026) **RouterKGQA: Specialized--General Model Routing for Constraint-Aware Knowledge Graph Question Answering** [[Paper]](https://arxiv.org/abs/2603.20017) [[Code]](https://github.com/Oldcircle/RouterKGQA) ![GitHub Repo stars](https://img.shields.io/github/stars/Oldcircle/RouterKGQA?style=social)
 - (ICLR 2025) **Think-on-Graph 2.0: Deep and Faithful Large Language Model Reasoning with Knowledge-guided Retrieval Augmented Generation** [[Paper]](https://arxiv.org/pdf/2407.10805) [[Code]](https://github.com/IDEA-FinAI/ToG-2) ![GitHub Repo stars](https://img.shields.io/github/stars/IDEA-FinAI/ToG-2?style=social)
 
 - (ICLR 2024) **Think-on-Graph: Deep and Responsible Reasoning of Large Language Model on Knowledge Graph** [[Paper]](https://arxiv.org/pdf/2307.07697) [[Code]](https://github.com/spcl/graph-of-thoughts) ![GitHub Repo stars](https://img.shields.io/github/stars/spcl/graph-of-thoughts?style=social)
@@ -342,6 +402,13 @@ Guidelines for contributing to this repository and adding citation information.
 #### Single-Agent
 
 ##### Prompting
+- (arXiv 2026) **Beyond Parallel Sampling: Diverse Query Initialization for Agentic Search** [[Paper]](https://arxiv.org/abs/2606.17209) [[Code]](https://github.com/cxcscmu/diverse-query-initialization) ![GitHub Repo stars](https://img.shields.io/github/stars/cxcscmu/diverse-query-initialization?style=social)
+- (arXiv 2026) **FineVerify: Scaling Test-Time Compute with Fine-Grained Self-Verification for Agentic Search** [[Paper]](https://arxiv.org/abs/2606.00660) [[Code]](https://github.com/XuZhao0/fineverify) ![GitHub Repo stars](https://img.shields.io/github/stars/XuZhao0/fineverify?style=social)
+- (arXiv 2026) **Rethinking Agentic Search with Pi-Serini: Is Lexical Retrieval Sufficient?** [[Paper]](https://arxiv.org/abs/2605.10848) [[Code]](https://github.com/justram/pi-serini) ![GitHub Repo stars](https://img.shields.io/github/stars/justram/pi-serini?style=social)
+- (arXiv 2026) **Don&#39;t Retrieve, Navigate: Distilling Enterprise Knowledge into Navigable Agent Skills for QA and RAG** [[Paper]](https://arxiv.org/abs/2604.14572) [[Code]](https://github.com/dukesun99/Corpus2Skill) ![GitHub Repo stars](https://img.shields.io/github/stars/dukesun99/Corpus2Skill?style=social)
+- (arXiv 2026) **GraphSkill: Documentation-Guided Hierarchical Retrieval-Augmented Coding for Complex Graph Reasoning** [[Paper]](https://arxiv.org/abs/2603.06620) [[Code]](https://github.com/FairyFali/GraphSkill) ![GitHub Repo stars](https://img.shields.io/github/stars/FairyFali/GraphSkill?style=social)
+- (arXiv 2026) **DeepRead: Document Structure-Aware Reasoning to Enhance Agentic Search** [[Paper]](https://arxiv.org/abs/2602.05014) [[Code]](https://github.com/Zhanli-Li/DeepRead) ![GitHub Repo stars](https://img.shields.io/github/stars/Zhanli-Li/DeepRead?style=social)
+- (arXiv 2026) **A-RAG: Scaling Agentic Retrieval-Augmented Generation via Hierarchical Retrieval Interfaces** [[Paper]](https://arxiv.org/abs/2602.03442) [[Code]](https://github.com/Ayanami0730/arag) ![GitHub Repo stars](https://img.shields.io/github/stars/Ayanami0730/arag?style=social)
 - (ArXiv 2025) **Search-o1: Agentic Search-Enhanced Large Reasoning Models** [[Paper]](https://arxiv.org/pdf/2501.05366) [[Code]](https://github.com/sunnynexus/Search-o1) ![GitHub Repo stars](https://img.shields.io/github/stars/sunnynexus/Search-o1?style=social)
 - (ArXiv 2025) **Plan∗RAG: Efficient Test-Time Planning for Retrieval Augmented Generation** [[Paper]](https://arxiv.org/pdf/2410.20753)
 - (ArXiv 2025) **Open Deep Search: Democratizing Search with Open-source Reasoning Agents** [[Paper]](https://arxiv.org/pdf/2503.20201) [[Code]](https://github.com/sentient-agi/OpenDeepSearch) ![GitHub Repo stars](https://img.shields.io/github/stars/sentient-agi/OpenDeepSearch?style=social)
@@ -358,6 +425,11 @@ Guidelines for contributing to this repository and adding citation information.
 
 ##### Supervised Fine-Tuning
 
+- (arXiv 2026) **FORT-Searcher: Synthesizing Shortcut-Resistant Search Tasks for Training Deep Search Agents** [[Paper]](https://arxiv.org/abs/2606.12087) [[Code]](https://github.com/RUCAIBox/FORT-Searcher) ![GitHub Repo stars](https://img.shields.io/github/stars/RUCAIBox/FORT-Searcher?style=social)
+- (ACL 2026 Findings) **SEARCH-R: Structured Entity-Aware Retrieval with Chain-of-Reasoning Navigator for Multi-hop Question Answering** [[Paper]](https://arxiv.org/abs/2604.24515) [[Code]](https://github.com/Applied-Machine-Learning-Lab/ACL2026_SEARCH-R) ![GitHub Repo stars](https://img.shields.io/github/stars/Applied-Machine-Learning-Lab/ACL2026_SEARCH-R?style=social)
+- (arXiv 2026) **Deep-Reporter: Deep Research for Grounded Multimodal Long-Form Generation** [[Paper]](https://arxiv.org/abs/2604.10741) [[Code]](https://github.com/fangda-ye/Deep-Report) ![GitHub Repo stars](https://img.shields.io/github/stars/fangda-ye/Deep-Report?style=social)
+- (arXiv 2026) **OpenResearcher: A Fully Open Pipeline for Long-Horizon Deep Research Trajectory Synthesis** [[Paper]](https://arxiv.org/abs/2603.20278) [[Code]](https://github.com/TIGER-AI-Lab/OpenResearcher) ![GitHub Repo stars](https://img.shields.io/github/stars/TIGER-AI-Lab/OpenResearcher?style=social)
+- (arXiv 2026) **SynPlanResearch-R1: Encouraging Tool Exploration for Deep Research with Synthetic Plans** [[Paper]](https://arxiv.org/abs/2603.07853) [[Code]](https://github.com/HansiZeng/syn-plan-research) ![GitHub Repo stars](https://img.shields.io/github/stars/HansiZeng/syn-plan-research?style=social)
 - (EMNLP 2024) **REAR: A Relevance-Aware Retrieval-Augmented Framework for Open-Domain Question Answering** [[Paper]](https://arxiv.org/pdf/2402.17497)
 - (EMNLP 2024) **RAG-Studio: Towards In-Domain Adaptation of Retrieval Augmented Generation Through Self-Alignment** [[Paper]](https://aclanthology.org/2024.findings-emnlp.41.pdf)
 - (ICML 2024) **InstructRetro: Instruction Tuning post Retrieval-Augmented Pretraining** [[Paper]](https://arxiv.org/pdf/2310.07713)
@@ -371,6 +443,17 @@ Guidelines for contributing to this repository and adding citation information.
 
 ##### Reinforcement Learning
 
+- (arXiv 2026) **FaithMed: Training LLMs For Faithful Evidence-Based Medical Reasoning** [[Paper]](https://arxiv.org/abs/2607.01440) [[Code]](https://github.com/cxcscmu/FaithMed) ![GitHub Repo stars](https://img.shields.io/github/stars/cxcscmu/FaithMed?style=social)
+- (arXiv 2026) **Harness-1: Reinforcement Learning for Search Agents with State-Externalizing Harnesses** [[Paper]](https://arxiv.org/abs/2606.02373) [[Code]](https://github.com/pat-jj/harness-1) ![GitHub Repo stars](https://img.shields.io/github/stars/pat-jj/harness-1?style=social)
+- (arXiv 2026) **LongTraceRL: Learning Long-Context Reasoning from Search Agent Trajectories with Rubric Rewards** [[Paper]](https://arxiv.org/abs/2605.31584) [[Code]](https://github.com/THU-KEG/LongTraceRL) ![GitHub Repo stars](https://img.shields.io/github/stars/THU-KEG/LongTraceRL?style=social)
+- (arXiv 2026) **SAAS: Self-Aware Reinforcement Learning for Over-Search Mitigation in Agentic Search** [[Paper]](https://arxiv.org/abs/2605.29796) [[Code]](https://github.com/XMUDeepLIT/SAAS) ![GitHub Repo stars](https://img.shields.io/github/stars/XMUDeepLIT/SAAS?style=social)
+- (arXiv 2026) **Retrieval, Reward, and Training Protocols: What Matters in Training Search Agents?** [[Paper]](https://arxiv.org/abs/2605.27881) [[Code]](https://github.com/YiboZhao624/SearchAgentReview) ![GitHub Repo stars](https://img.shields.io/github/stars/YiboZhao624/SearchAgentReview?style=social)
+- (arXiv 2026) **Can LLMs Time Travel? Enhancing Temporal Consistency in Legal Agentic Search through Reinforcement Learning** [[Paper]](https://arxiv.org/abs/2605.25920) [[Code]](https://github.com/AlexFanw/LegalSearch-R1) ![GitHub Repo stars](https://img.shields.io/github/stars/AlexFanw/LegalSearch-R1?style=social)
+- (SIGIR 2026) **CroSearch-R1: Better Leveraging Cross-lingual Knowledge for Retrieval-Augmented Generation** [[Paper]](https://arxiv.org/abs/2604.25182)
+- (arXiv 2026) **Negative Advantages Is a Double-Edged Sword: Calibrating advantages in GRPO for Search Agents** [[Paper]](https://arxiv.org/abs/2604.18235) [[Code]](https://github.com/wujwyi/CalibAdv) ![GitHub Repo stars](https://img.shields.io/github/stars/wujwyi/CalibAdv?style=social)
+- (arXiv 2026) **Meta-Reinforcement Learning with Self-Reflection for Agentic Search** [[Paper]](https://arxiv.org/abs/2603.11327) [[Code]](https://github.com/tengxiao1/MR-Search) ![GitHub Repo stars](https://img.shields.io/github/stars/tengxiao1/MR-Search?style=social)
+- (arXiv 2026) **VimRAG: Navigating Massive Visual Context in Retrieval-Augmented Generation via Multimodal Memory Graph** [[Paper]](https://arxiv.org/abs/2602.12735)
+- (arXiv 2026) **To Search or Not to Search: Aligning the Decision Boundary of Deep Search Agents via Causal Intervention** [[Paper]](https://arxiv.org/abs/2602.03304) [[Code]](https://github.com/Applied-Machine-Learning-Lab/WWW2026_DAS) ![GitHub Repo stars](https://img.shields.io/github/stars/Applied-Machine-Learning-Lab/WWW2026_DAS?style=social)
 - (ArXiv 2025) **DeepResearcher: Scaling Deep Research via Reinforcement Learning in Real-world Environments** [[Paper]](https://arxiv.org/pdf/2504.03160?) [[Code]](https://github.com/GAIR-NLP/DeepResearcher) ![GitHub Repo stars](https://img.shields.io/github/stars/GAIR-NLP/DeepResearcher?style=social)
 - (ArXiv 2025) **Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning** [[Paper]](https://arxiv.org/pdf/2503.09516) [[Code]](https://github.com/PeterGriffinJin/Search-R1) ![GitHub Repo stars](https://img.shields.io/github/stars/PeterGriffinJin/Search-R1?style=social)
 - (ArXiv 2025) **RAG-RL: Advancing Retrieval-Augmented Generation via RL and Curriculum Learning** [[Paper]](https://arxiv.org/pdf/2503.12759?)
@@ -382,6 +465,13 @@ Guidelines for contributing to this repository and adding citation information.
 - (ArXiv 2025) **Search Self-play: Pushing the Frontier of Agent Capability without Supervision** [[Paper]](https://arxiv.org/abs/2510.18821) [[Code]](https://github.com/Alibaba-Quark/SSP) ![GitHub Repo stars](https://img.shields.io/github/stars/Alibaba-Quark/SSP?style=social)
 
 #### Multi-Agent
+- (arXiv 2026) **Think Big, Search Small: Where Capacity Matters in Hierarchical Search Agents?** [[Paper]](https://arxiv.org/abs/2607.07548) [[Code]](https://github.com/QinnanCai0115/role-factorized-search) ![GitHub Repo stars](https://img.shields.io/github/stars/QinnanCai0115/role-factorized-search?style=social)
+- (arXiv 2026) **To Isolate or to Score? Model-Adaptive Assessment for Cost-Efficient Multi-Agent RAG** [[Paper]](https://arxiv.org/abs/2606.25191) [[Code]](https://github.com/js-lee-AI/MADARA) ![GitHub Repo stars](https://img.shields.io/github/stars/js-lee-AI/MADARA?style=social)
+- (arXiv 2026) **Towards Verifiable Multimodal Deep Research: A Multi-Agent Harness for Interleaved Report Generation** [[Paper]](https://arxiv.org/abs/2605.29861) [[Code]](https://github.com/SnowNation101/Ptah) ![GitHub Repo stars](https://img.shields.io/github/stars/SnowNation101/Ptah?style=social)
+- (ACL 2026) **LegalGraphRAG: Multi-Agent Graph Retrieval-Augmented Generation for Reliable Legal Reasoning** [[Paper]](https://arxiv.org/abs/2605.28120) [[Code]](https://github.com/XMUDeepLIT/LegalGraphRAG) ![GitHub Repo stars](https://img.shields.io/github/stars/XMUDeepLIT/LegalGraphRAG?style=social)
+- (ACL 2026 Findings) **SEMA-RAG: A Self-Evolving Multi-Agent Retrieval-Augmented Generation Framework for Medical Reasoning** [[Paper]](https://arxiv.org/abs/2605.17101)
+- (arXiv 2026) **Courtroom-Style Multi-Agent Debate with Progressive RAG and Role-Switching for Controversial Claim Verification** [[Paper]](https://arxiv.org/abs/2603.28488) [[Code]](https://github.com/mnc13/PROClaim) ![GitHub Repo stars](https://img.shields.io/github/stars/mnc13/PROClaim?style=social)
+- (ACL 2026) **FS-Researcher: Test-Time Scaling for Long-Horizon Research Tasks with File-System-Based Agents** [[Paper]](https://arxiv.org/abs/2602.01566) [[Code]](https://github.com/Ignoramus0817/FS-Researcher) ![GitHub Repo stars](https://img.shields.io/github/stars/Ignoramus0817/FS-Researcher?style=social)
 - (arXiv 2026) **O-Researcher: An Open Ended Deep Research Model via Multi-Agent Distillation and Agentic RL** [[Paper](https://arxiv.org/pdf/2601.03743)] [[Code]](https://github.com/OPPO-PersonalAI/O-Researcher) ![GitHub Repo stars](https://img.shields.io/github/stars/OPPO-PersonalAI/O-Researcher?style=social)
 - (arXiv 2025) **Enterprise Deep Research: Steerable MultiAgent Deep Research for Enterprise Analytics** [[Paper](https://arxiv.org/abs/2510.17797)]
 - (arXiv 2025) **Universal Deep Research: Bring Your Own Model and Strategy** [[Paper](https://arxiv.org/abs/2509.00244)] [[Code]](https://github.com/NVlabs/UniversalDeepResearch) ![GitHub Repo stars](https://img.shields.io/github/stars/NVlabs/UniversalDeepResearch?style=social)
@@ -426,6 +516,9 @@ Guidelines for contributing to this repository and adding citation information.
 | [MINTQA](https://arxiv.org/pdf/2412.17032) | [Arxiv'24](https://github.com/probe2/multi-hop/) [![GitHub stars](https://img.shields.io/github/stars/probe2/multi-hop?style=social)](https://github.com/probe2/multi-hop/) | Multi-hop QA | General | Commonsense, Logical | Deductive | 10,479 |
 | [GPQA](https://openreview.net/pdf?id=Ti67584b98) | [COLM'24](https://github.com/idavidrein/gpqa) [![GitHub stars](https://img.shields.io/github/stars/idavidrein/gpqa?style=social)](https://github.com/idavidrein/gpqa) | Multi-hop QA | Science | Logical | Deductive, Abductive | 448 |
 | [HLE](https://arxiv.org/pdf/2501.14249) | [Arxiv'25](https://github.com/centerforaisafety/hle) [![GitHub stars](https://img.shields.io/github/stars/centerforaisafety/hle?style=social)](https://github.com/centerforaisafety/hle) | Multi-hop QA | Science | Arithmetic, Logical, Multimodal | Deductive, Abductive | 2,500 |
+| [Omanic](https://arxiv.org/abs/2603.16654) | [Arxiv'26](https://github.com/XiaojieGu/Omanic) [![GitHub stars](https://img.shields.io/github/stars/XiaojieGu/Omanic?style=social)](https://github.com/XiaojieGu/Omanic) | Multi-hop QA | General | Commonsense, Logical | Deductive | 10,296 + 967 |
+| [AgenticRAGTracer](https://arxiv.org/abs/2602.19127) | [ACL'26](https://github.com/YqjMartin/AgenticRAGTracer) [![GitHub stars](https://img.shields.io/github/stars/YqjMartin/AgenticRAGTracer?style=social)](https://github.com/YqjMartin/AgenticRAGTracer) | Multi-hop QA | General | Commonsense, Logical | Deductive | 1,305 |
+| [WildGraphBench](https://arxiv.org/abs/2602.02053) | [Arxiv'26](https://github.com/BstWPY/WildGraphBench) [![GitHub stars](https://img.shields.io/github/stars/BstWPY/WildGraphBench?style=social)](https://github.com/BstWPY/WildGraphBench) | Multi-hop QA | General | Commonsense, Logical | Deductive, Inductive | 1,100 |
 <a name="multi-choice-qa"></a>
 | [QuALITY](https://aclanthology.org/2022.naacl-main.391.pdf) | [NAACL'22](https://github.com/nyu-mll/quality) [![GitHub stars](https://img.shields.io/github/stars/nyu-mll/quality?style=social)](https://github.com/nyu-mll/quality) | Multi-choice QA | Narrative | Commonsense, Logical | Deductive, Abductive | 6,737 |
 | [CC/Bamboogle](https://aclanthology.org/2023.findings-emnlp.378.pdf) | [EMNLP'23](https://github.com/ofirpress/self-ask) [![GitHub stars](https://img.shields.io/github/stars/ofirpress/self-ask?style=social)](https://github.com/ofirpress/self-ask) | Multi-choice QA | General | Logical | Deductive, Abductive | 125 |
@@ -434,6 +527,7 @@ Guidelines for contributing to this repository and adding citation information.
 | [MMLU-Pro](https://openreview.net/pdf?id=y10DM6R2r3) | [NeurIPS'24](https://github.com/TIGER-AI-Lab/MMLU-Pro) [![GitHub stars](https://img.shields.io/github/stars/TIGER-AI-Lab/MMLU-Pro?style=social)](https://github.com/TIGER-AI-Lab/MMLU-Pro) | Multi-choice QA | Science | Arithmetic, Commonsense, Logical | Deductive, Inductive | 12,032 |
 <a name="multi-step-qa"></a>
 | [StrategyQA](https://aclanthology.org/2021.tacl-1.21.pdf) | [TACL'21](https://github.com/eladsegal/strategyqa) [![GitHub stars](https://img.shields.io/github/stars/eladsegal/strategyqa?style=social)](https://github.com/eladsegal/strategyqa) | Multi-step QA | General | Commonsense, Logical | Deductive | 2,780 |
+| [LIT-RAGBench](https://arxiv.org/abs/2603.06198) | [LREC'26](https://github.com/Koki-Itai/LIT-RAGBench) [![GitHub stars](https://img.shields.io/github/stars/Koki-Itai/LIT-RAGBench?style=social)](https://github.com/Koki-Itai/LIT-RAGBench) | Multi-step QA | General | Logical, Arithmetic | Deductive, Abductive | 114 |
 <a name="multimodal-qa"></a>
 | [CrisisMMD](https://arxiv.org/pdf/1805.00713) | [Arxiv'18](https://crisisnlp.qcri.org/crisismmd) | Multimodal QA | Crisis Response | Commonsense, Multimodal | Abductive | 16,097 |
 | [ALFWORLD](https://openreview.net/pdf?id=0IOX0YcCdTn) | [ICLR'21](https://github.com/alfworld/alfworld) [![GitHub stars](https://img.shields.io/github/stars/alfworld/alfworld?style=social)](https://github.com/alfworld/alfworld) | Multimodal QA | Game | Multimodal | Deductive, Abductive | 3,827 |
@@ -443,6 +537,7 @@ Guidelines for contributing to this repository and adding citation information.
 | [UDA](https://proceedings.neurips.cc/paper_files/paper/2024/file/7c06759d1a8567f087b02e8589454917-Paper-Datasets_and_Benchmarks_Track.pdf) | [NeurIPS'24](https://github.com/qinchuanhui/UDA-Benchmark) [![GitHub stars](https://img.shields.io/github/stars/qinchuanhui/UDA-Benchmark?style=social)](https://github.com/qinchuanhui/UDA-Benchmark) | Multimodal QA | Narrative | Multimodal | Deductive | 29,590 |
 | [LongDocURL](https://arxiv.org/pdf/2412.18424) | [Arxiv'24](https://github.com/dengc2023/LongDocURL) [![GitHub stars](https://img.shields.io/github/stars/dengc2023/LongDocURL?style=social)](https://github.com/dengc2023/LongDocURL) | Multimodal QA | Narrative | Multimodal | Deductive, Abductive | 2,325 |
 | [SurgCoTBench](https://arxiv.org/pdf/2503.10265) | [Arxiv'25](https://github.com/jinlab-imvr/SurgRAW) [![GitHub stars](https://img.shields.io/github/stars/jinlab-imvr/SurgRAW?style=social)](https://github.com/jinlab-imvr/SurgRAW) | Multimodal QA | Health | Multimodal, Logical | Abductive, Deductive | 14,176 |
+| [InterLV-Search](https://arxiv.org/abs/2605.07510) | [Arxiv'26](https://github.com/hbhalpha/InterLV-Search-Bench) [![GitHub stars](https://img.shields.io/github/stars/hbhalpha/InterLV-Search-Bench?style=social)](https://github.com/hbhalpha/InterLV-Search-Bench) | Multimodal QA | General | Multimodal, Logical | Deductive, Abductive | 2,061 |
 <a name="long-form-qa"></a>
 | [∞BENCH](https://aclanthology.org/2024.acl-long.814.pdf) | [ACL'24](https://github.com/OpenBMB/InfiniteBench) [![GitHub stars](https://img.shields.io/github/stars/OpenBMB/InfiniteBench?style=social)](https://github.com/OpenBMB/InfiniteBench) | Long-form QA | Narrative, General | Multimodal, Logical | Inductive, Abductive | 3,946 |
 <a name="graph-qa"></a>
@@ -454,6 +549,7 @@ Guidelines for contributing to this repository and adding citation information.
 | [ColBench](https://arxiv.org/pdf/2503.15478) | [Arxiv'25](https://huggingface.co/datasets/facebook/collaborative_agent_bench) | Code | Software | Logical | Abductive, Inductive | 10,000+ |
 <a name="dialog"></a>
 | [DailyDialog](https://aclanthology.org/I17-1099.pdf) | [IJCNLP'17](https://paperswithcode.com/dataset/dailydialog) | Dialog | General | Commonsense | – | 13,118 |
+| [MTRAG-UN](https://arxiv.org/abs/2602.23184) | [Arxiv'26](https://github.com/IBM/mt-rag-benchmark) [![GitHub stars](https://img.shields.io/github/stars/IBM/mt-rag-benchmark?style=social)](https://github.com/IBM/mt-rag-benchmark) | Dialog | General | Commonsense, Logical | Deductive, Abductive | 666 |
 <a name="fact-checking"></a>
 | [Fever](https://aclanthology.org/N18-1074.pdf) | [NAACL'18](https://github.com/awslabs/fever) [![GitHub stars](https://img.shields.io/github/stars/awslabs/fever?style=social)](https://github.com/awslabs/fever) | Fact Checking | General | Logical | Deductive, Abductive | 185,445 |
 | [PubHealth](https://aclanthology.org/2020.emnlp-main.623.pdf) | [EMNLP'20](https://github.com/neemakot/Health-Fact-Checking) [![GitHub stars](https://img.shields.io/github/stars/neemakot/Health-Fact-Checking?style=social)](https://github.com/neemakot/Health-Fact-Checking) | Fact Checking | Health | Commonsense, Logical | Abductive, Deductive | 11,800 |
